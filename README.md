@@ -1,4 +1,4 @@
-# Gemini RestoPOS - Restaurant Management System
+# LuxeDine RMS - Restaurant Management System
 
 A lightweight, clean, and responsive Restaurant Management System (RMS) built with vanilla HTML, CSS, and JavaScript.
 
@@ -28,3 +28,4 @@ A lightweight, clean, and responsive Restaurant Management System (RMS) built wi
 ├── style.css       # Styling and layout
 ├── script.js       # Business logic and state
 └── README.md       # Documentation
+
